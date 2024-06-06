@@ -21,7 +21,7 @@ function Footer() {
           </div>
           <div className='w-1/2'>
             <h3 className='text-[#efbb10] font-black py-3 sm:text-xl lg:text-sm text-center'>OUR COMPANY</h3>
-            <NavLink to={"https://api.whatsapp.com/send?phone=919934119958&text=Hello,%20I%20am%20interested%20in%20your%20services."} target='_blank'><p className='text-center hover:underline hover:text-yellow-400 hover:transition-all hover:ease-in hover:duration-300 cursor-pointer'>Terms And Conditions </p></NavLink>
+            <NavLink to={"https://api.whatsapp.com/send?phone=919431658493&text=Hello,%20I%20am%I%20want%to%buy%20The%20Product."} target='_blank'><p className='text-center hover:underline hover:text-yellow-400 hover:transition-all hover:ease-in hover:duration-300 cursor-pointer'>Terms And Conditions </p></NavLink>
             <Link to={'/about'} className='text-center hover:underline hover:text-yellow-400 hover:transition-all hover:ease-in hover:duration-300 cursor-pointer'>About us</Link>
           </div>
           <div className='w-1/2 '>

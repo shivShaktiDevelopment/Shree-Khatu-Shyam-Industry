@@ -22,7 +22,7 @@ function Cards({id,price,img,name}) {
                     <h4 className='text-xs  md:text-xs font-bold px-2 py-1 lg:text-xs xl:text-[.8vw] font-["Roboto"]'>₹ {price}  EXCLUDING GST PACKING,TRANSPORTATION</h4>
                 </div>
                 <div className="w-1/2 flex justify-center items-center mb-3 gap-1 px-2 md:w-full  xl:mb-0 xl:px-0">
-                   <NavLink to={"https://api.whatsapp.com/send?phone=919431658493&text=Hello,%20I%20am%20interested%20in%20your%20services."} target='_blank'> <button className="bg-yellow-500 px-4 py-2 text-[3vw] rounded-md hover:bg-yellow-600 font-bold font-['Roboto'] sm:text-[1.6vw] xl:text-[.7vw]" onClick={() => handleAddToCart(product)} >Add to Cart</button></NavLink>
+                   <NavLink to={"https://api.whatsapp.com/send?phone=919431658493&text=Hello,%20I%20am%I%20want%to%buy%20The%20Product."} target='_blank'> <button className="bg-yellow-500 px-4 py-2 text-[3vw] rounded-md hover:bg-yellow-600 font-bold font-['Roboto'] sm:text-[1.6vw] xl:text-[.7vw]" onClick={() => handleAddToCart(product)} >Add to Cart</button></NavLink>
                 </div>
             </div>
             <div className="pic  w-full bg-zinc-300 px-3 h-[35vw] overflow-hidden md:w-full md:mb-1 md:h-[17vw] lg:h-[10vw] lg:w-full xl:w-full xl:h-[14vw] xl:flex justify-center rounded-xl cursor-pointer">
