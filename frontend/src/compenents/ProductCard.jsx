@@ -11,7 +11,7 @@ function ProductCard({name,id,price,img,btnText}) {
       </div>    
       <div className='pl-2'><h3 className='text-start py-2 sm:mt-2 sm:py-3 lg:py-1 font-["Roboto"] xl:px-6'>{name}</h3></div>
       <h2 className='mt-5 text-start px-5 font-semibold text-xs sm:px-[5vw] sm:text-xs md:px-[5vw] md:-py-2 lg:px-8 lg:text-sm font-["Roboto"]'> ₹ {price}</h2>
-      <NavLink to={"https://api.whatsapp.com/send?phone=919431658493&text=Hello,%20I%20am%I%20want%to%buy%20The%20Product."} target='_blank'><div className='text-start px-5 w-[80vw] sm:px-[10vw]  md:px-[7vw] lg:px-7'><Button btnText={"Buy now"} /> </div> </NavLink>
+      <NavLink to={"https://api.whatsapp.com/send?phone=919431658493&text=Hello%20Sir,%20I%20want%20To%20Buy%20Products"} target='_blank'><div className='text-start px-5 w-[80vw] sm:px-[10vw]  md:px-[7vw] lg:px-7'><Button btnText={"Buy now"} /> </div> </NavLink>
     </div>
   )
 }
