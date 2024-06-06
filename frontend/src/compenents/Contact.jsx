@@ -18,7 +18,7 @@ function Contact() {
     e.preventDefault();
     try {
       await axios.post(
-        "http://localhost:5000/api/v1/users/send-email",
+        "https://shree-khatu-shyam-industry.onrender.com/api/v1/users/send-email",
         formData
       );
       console.log("Email sent successfully");
