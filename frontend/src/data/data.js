@@ -38,14 +38,14 @@ export const datas = [
   },
   {
     id: 6,
-    name: "N-2 WIRE NAIL MACHINE PRICE ",
+    name: "N-2 WIRE NAIL MACHINE  ",
     price: "145000/Unit",
     description: " PACKING, TRANSPORTATION",
     img: "https://res.cloudinary.com/debkxazes/image/upload/v1717352359/Shree%20Khatu%20Shyam%20Industry%20-%20Assets/Products/iz4j6qvsmioqysliulsh.png",
   },
   {
     id: 6,
-    name: "N-2 WIRE NAIL MACHINE ",
+    name: "Binding Wire Draw Machine ",
     price: "200000/Unit",
     img: "https://res.cloudinary.com/debkxazes/image/upload/v1717352358/Shree%20Khatu%20Shyam%20Industry%20-%20Assets/Products/mtvdtkkwzwlsa8b4bnop.png",
   },
